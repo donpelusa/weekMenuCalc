@@ -1,0 +1,227 @@
+{
+    "Aceite de maravilla": {
+      "unidad": "900 ml",
+      "precio": "$3000"
+    },
+    "Aceite de oliva": {
+      "unidad": "500 ml",
+      "precio": "$11000"
+    },
+    "Aceite de sésamo": {
+      "unidad": "200 ml",
+      "precio": "$7000"
+    },
+    "Ajo": {
+      "unidad": "225 gr",
+      "precio": "$1200"
+    },
+    "Aji verde": {
+      "unidad": "130 gr",
+      "precio": "$1100"
+    },
+    "Alcachofa": {
+      "unidad": "250 gr",
+      "precio": "$800"
+    },
+    "Almendras": {
+      "unidad": "250 gr",
+      "precio": "$3000"
+    },
+    "Arroz": {
+      "unidad": "1 kg",
+      "precio": "$2000"
+    },
+    "Arvejas": {
+      "unidad": "500 gr",
+      "precio": "$1900"
+    },
+    "Avena": {
+      "unidad": "700 gr",
+      "precio": "$2600"
+    },
+    "Berro": {
+      "unidad": "200 gr",
+      "precio": "$1800"
+    },
+    "Betarraga": {
+      "unidad": "1.5 kg",
+      "precio": "$1900"
+    },
+    "Brocoli": {
+      "unidad": "500 gr",
+      "precio": "$2000"
+    },
+    "Brotes de brócoli": {
+      "unidad": "70 gr",
+      "precio": "$1100"
+    },
+    "Camarones": {
+      "unidad": "500 gr",
+      "precio": "$10000"
+    },
+    "Camote": {
+      "unidad": "1 kg",
+      "precio": "$2000"
+    },
+    "Carne Molida grasa 7%": {
+      "unidad": "500 gr",
+      "precio": "$5250"
+    },
+    "Cebolla": {
+      "unidad": "150 gr",
+      "precio": "$260"
+    },
+    "Chía": {
+      "unidad": "500 gr",
+      "precio": "$3400"
+    },
+    "Choclo en grano congelado": {
+      "unidad": "500 gr",
+      "precio": "$1800"
+    },
+    "Espárragos": {
+      "unidad": "500 gr",
+      "precio": "$1800"
+    },
+    "Espinaca": {
+      "unidad": "500 gr",
+      "precio": "$1700"
+    },
+    "Frambuesas": {
+      "unidad": "500 gr",
+      "precio": "$5000"
+    },
+    "Garbanzos": {
+      "unidad": "500 gr",
+      "precio": "$2000"
+    },
+    "Huevos": {
+      "unidad": "65 gr",
+      "precio": "$270"
+    },
+    "Láminas de Pan masa madre": {
+      "unidad": "750 gr",
+      "precio": "$3500"
+    },
+    "Lentejas": {
+      "unidad": "1 kg",
+      "precio": "$4400"
+    },
+    "Lentejas Rojas": {
+      "unidad": "1 kg",
+      "precio": "$4100"
+    },
+    "Limón": {
+      "unidad": "1 kg",
+      "precio": "$1400"
+    },
+    "Lomo liso (Carne res)": {
+      "unidad": "1.5 kg",
+      "precio": "$23000"
+    },
+    "Maní": {
+      "unidad": "1 kg",
+      "precio": "$5600"
+    },
+    "Manzanas": {
+      "unidad": "1 kg",
+      "precio": "$2200"
+    },
+    "Nueces": {
+      "unidad": "250 gr",
+      "precio": "$3000"
+    },
+    "Palta": {
+      "unidad": "1 kg",
+      "precio": "$7000"
+    },
+    "Papa chilena": {
+      "unidad": "1 kg",
+      "precio": "$2200"
+    },
+    "Pechuga de Pollo": {
+      "unidad": "880 gr",
+      "precio": "$5300"
+    },
+    "Pera": {
+      "unidad": "1 kg",
+      "precio": "$1700"
+    },
+    "Perejil": {
+      "unidad": "120 gr",
+      "precio": "$800"
+    },
+    "Pimentón rojo": {
+      "unidad": "110 gr",
+      "precio": "$1700"
+    },
+    "Pimentón verde": {
+      "unidad": "110 gr",
+      "precio": "$1000"
+    },
+    "Plátano": {
+      "unidad": "1 kg",
+      "precio": "$1800"
+    },
+    "Poroto negro": {
+      "unidad": "230 gr",
+      "precio": "$1400"
+    },
+    "Queso mantecoso": {
+      "unidad": "500 gr",
+      "precio": "$6700"
+    },
+    "Queso rallado reggianito": {
+      "unidad": "40 gr",
+      "precio": "$1000"
+    },
+    "Quinoa": {
+      "unidad": "250 gr",
+      "precio": "$2500"
+    },
+    "Repollo": {
+      "unidad": "300 gr",
+      "precio": "$1800"
+    },
+    "Rúcula": {
+      "unidad": "150 gr",
+      "precio": "$2000"
+    },
+    "Salmón": {
+      "unidad": "500 gr",
+      "precio": "$11000"
+    },
+    "Semillas girasol": {
+      "unidad": "500 gr",
+      "precio": "$4000"
+    },
+    "Semillas zapallo": {
+      "unidad": "500 gr",
+      "precio": "$5000"
+    },
+    "Tomate": {
+      "unidad": "1 kg",
+      "precio": "$2000"
+    },
+    "Tomate Cherry": {
+      "unidad": "500 gr",
+      "precio": "$2000"
+    },
+    "Tutro de Pollo": {
+      "unidad": "700 gr",
+      "precio": "$3100"
+    },
+    "Yogurt Griego": {
+      "unidad": "120 gr",
+      "precio": "$500"
+    },
+    "Zanahoria": {
+      "unidad": "1 kg",
+      "precio": "$1400"
+    },
+    "Zapallo camote": {
+      "unidad": "500 gr",
+      "precio": "$2000"
+    }
+  }
+  

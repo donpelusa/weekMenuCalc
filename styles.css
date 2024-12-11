@@ -1,0 +1,45 @@
+/* styles.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 14px;
+    background: #f7f7f7;
+    text-align: center;
+    font-size: large;
+}
+
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    margin-top: 0;
+    font-weight: 400;
+}
+
+table {
+    width: auto;
+    border-collapse: collapse;
+    margin: 100px auto;
+    
+}
+
+table thead {
+    background: #eee;
+}
+
+table th, 
+table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+table td button {
+    margin-right: 5px;
+}
+
+table tfoot {
+    font-weight: bold;
+}

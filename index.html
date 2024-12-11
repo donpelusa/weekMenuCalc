@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Agregar Semana</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Agregar Semana</h1>
+        <p>Sube los 7 archivos JSON (lunes.json, martes.json, miercoles.json, jueves.json, viernes.json, sabado.json, domingo.json)</p>
+        <input type="file" id="fileInput" multiple accept=".json" />
+        <button id="uploadBtn">Agregar semana</button>
+        
+        <table id="resultTable">
+            <thead>
+                <tr>
+                    <th>Alimento</th>
+                    <th>Gramaje Total</th>
+                    <th>Unidades</th>
+                    <th>Precio Calculado</th>
+                    <th>Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Se llenará dinámicamente -->
+            </tbody>
+            <tfoot>
+                <!-- Aquí se agregará la fila de totales -->
+            </tfoot>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
